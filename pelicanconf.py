@@ -1,6 +1,6 @@
 AUTHOR = 'Moo-fasa'
 SITENAME = 'Koen på den glatte is.'
-SITEURL = "https://glatis-dk.github.io/koen-p--den-glatte-is/"
+SITEURL = "https://glatis-dk.github.io/koen-p--den-glatte-is"
 
 DEFAULT_LANG = 'EN'
 
@@ -8,6 +8,8 @@ PATH = "content"
 
 THEME = 'themes/Peli-Kiera'
 STATIC_PATHS = ['images', 'static']
+THEME_STATIC_DIR = 'theme'
+THEME_STATIC_PATHS = ['static']
 
 TIMEZONE = 'Europe/Copenhagen'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
@@ -33,4 +35,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = False

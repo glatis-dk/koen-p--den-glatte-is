@@ -1,4 +1,4 @@
-AUTHOR = 'Moo-fasa'
+AUTHOR = 'Moo-fasa og Nu-sasha'
 SITENAME = 'Koen på den glatte is.'
 SITEURL = "https://glatis-dk.github.io/koen-p--den-glatte-is"
 

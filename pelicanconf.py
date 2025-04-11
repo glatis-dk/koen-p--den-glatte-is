@@ -1,6 +1,6 @@
-AUTHOR = 'Moofasa'
+AUTHOR = 'Moo-fasa'
 SITENAME = 'Koen på den glatte is.'
-SITEURL = ""
+SITEURL = "https://glatis-dk.github.io/koen-p--den-glatte-is/"
 
 DEFAULT_LANG = 'EN'
 

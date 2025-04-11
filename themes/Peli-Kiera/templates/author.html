@@ -5,7 +5,7 @@
 {% block content %}
     <main>
         <section id="list">
-            <h2>Articles by - {{ author }}</h2>
+            <h2>Articles by - <b>{{ author }}</b></h2>
             <ul>
                 {% set new = namespace(p=0) %}
                 {% for article in articles_page.object_list %}

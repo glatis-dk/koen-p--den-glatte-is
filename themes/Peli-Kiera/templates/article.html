@@ -22,14 +22,8 @@
                     Author: <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
                 </li>
                 <li>
-                    <time datetime="{{ article.date }}">{{ article.date|strftime('%b %d, %Y') }}</time>
+                    <time datetime="{{ article.date }}">Published on {{ article.date|strftime('%b %d, %Y') }}</time>
                 </li>
-                {% if article.modified %}
-                <li>
-                    <time datetime="{{ article.modified }}">Modified
-                        on {{ article.modified|strftime('%b %d, %Y') }}</time>
-                </li>
-                {% endif %}
                 {% if article.readtime %}
                 <li>{{ article.readtime.minutes }} min read</li>
                 {% endif %}

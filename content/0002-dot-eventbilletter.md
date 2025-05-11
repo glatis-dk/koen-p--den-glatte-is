@@ -8,7 +8,7 @@ Summary: Eventbilletten fra DOT giver mulighed for fleksibel rejse med bus, tog 
 
 Nogle gange giver <a href="https://dinoffentligetransport.dk/" target="_blank">Din Offentlige Transport (DOT)</a> mulighed for fleksibel rejse med bus, tog og metro i udvalgte weekender i en 12-timers periode, hvor man kan rejse i zoner 0-99 på Sjælland.
 
-<img src="https://dinoffentligetransport.dk/media/lxfj4bpk/dot-zonekort-2021_web.jpg" style="display: block; clip-path: inset(5px); width:400px; object-fit:cover; object-position:center;")
+<img src="https://dinoffentligetransport.dk/media/lxfj4bpk/dot-zonekort-2021_web.jpg" style="display: block; clip-path: inset(5px); width:400px; object-fit:cover; object-position:center;" alt="Zoner på Sjælland" />
 
 <a href="https://ringzoner.dinoffentligetransport.dk/" target="_blank">Zoner på Sjælland Vektormap</a>
 

@@ -11,6 +11,8 @@ Velkommen til *Koen på den glatte is* – en blog om vores rejse med dansk - l�
 
 Vi er et par fra Nepal og vi vil bruge pennavne **Moo-fasa** og **Nu-sasha**. Som ny danskstuderende er det meste stadig lidt glat. Men – selv køer kan lære at skøjte, ikke?
 
-Hvis du også føler dig som en ko på glatis...du er ikke alene. 🐄❄️
+Hvis du også føler dig som en ko på glatis...du er ikke alene. 
+
+![Imgur](https://i.imgur.com/LriJCxV.png)
 
 

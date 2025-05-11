@@ -18,7 +18,7 @@ Vi brugte billetten i weekenden og rejste fra Roskilde i vest til Helsingør i n
 
 Det er nemt at købe billetten på DOT appen. 
 
-<img src="https://i.imgur.com/TwhMllz.jpeg" alt="mobile juices" style="display: block; clip-path: inset(5px); width:250;  object-fit:cover; object-position:center;" />
+<img src="https://i.imgur.com/TwhMllz.jpeg" alt="mobile juices" style="display: block; clip-path: inset(5px); width:250px;  object-fit:cover; object-position:center;" />
 
 Husk at tage batteripakken eller opladeren med, for du vil ikke risikere, at telefonen løber tør for strøm, når billetkontrollen kommer.
 

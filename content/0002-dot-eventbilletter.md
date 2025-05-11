@@ -12,8 +12,10 @@ Nogle gange giver <a href="https://dinoffentligetransport.dk/" target="_blank">D
 
 <a href="https://ringzoner.dinoffentligetransport.dk/" target="_blank">Zoner på Sjælland Vektormap</a>
 
-Det er en super billig måde at komme rundt på og udforske landet. Jeg brugte billetten i weekenden og rejste fra Roskilde i vest til Helsingør i nordøst. Det er nemt at købe billetten online. 
+Det er en super billig måde at komme rundt på og udforske landet. 
+
+Vi brugte billetten i weekenden og rejste fra Roskilde i vest til Helsingør i nordøst. Det er nemt at købe billetten online. 
 
 Husk at have batteripakken eller charger med dig, da du ikke vil have, at telefonen løber tør for strøm, når billetkontrollen kommer. 
 
-Hold øje med <a href="https://dinoffentligetransport.dk/find-billetter/dagsbilletter/eventbillet" target="_blank">DOT eventbilletter</a> for at få fat i næste Eventbillet!
+Hold øje med <a href="https://dinoffentligetransport.dk/find-billetter/dagsbilletter/eventbillet" target="_blank">DOT eventbilletter</a> for at få fat i næste eventbillet!

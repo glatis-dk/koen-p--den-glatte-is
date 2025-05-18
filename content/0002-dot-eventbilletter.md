@@ -1,4 +1,4 @@
-Title: Dot Eventbilletter
+Title: Dot eventbilletter
 Date: 2025-05-11
 Category: blog
 Tags: dansk, blog, dot

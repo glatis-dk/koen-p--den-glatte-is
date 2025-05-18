@@ -3,7 +3,7 @@ Title: Min eneste drøm
 Date: 2025-05-18
 Category: blog
 Tags: dansk, blog, poesi, digt
-Slug: dot-eventbilletter
+Slug: min-eneste-drom
 Author: Nu-sasha
 Summary: Et digt om mit liv, mine tanker og min drøm om noget bedre.
 

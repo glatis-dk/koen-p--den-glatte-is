@@ -1,5 +1,5 @@
 AUTHOR = 'Moo-fasa og Nu-sasha'
-SITENAME = 'Koen på den glatte is.'
+SITENAME = 'To Køer på Glatis'
 SITEURL = "https://glatis.dk"
 
 DEFAULT_LANG = 'EN'

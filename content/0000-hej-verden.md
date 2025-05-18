@@ -7,7 +7,7 @@ Slug: moo-verden
 Author: Moo-fasa
 Summary: Vore danske eventyr - en blog om vores sprogforviklinger.
 
-Velkommen til *Koen på den glatte is* – en blog om vores rejse med dansk - læring og sprogforviklinger
+Velkommen til *To Køer på Glatis* – en blog om vores rejse med dansk - læring og sprogforviklinger
 
 Vi er et par fra Nepal og vi vil bruge pennavne **Moo-fasa** og **Nu-sasha**. Som ny danskstuderende er det meste stadig lidt glat. Men – selv køer kan lære at skøjte, ikke?
 

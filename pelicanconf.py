@@ -25,6 +25,10 @@ AUTHOR_FEED_RSS = None
 LINKS = (
 
 )
+MENUITEMS = (
+    ('Om os', '/om-os.html'),
+)
+DISPLAY_PAGES_ON_MENU = True
 
 # Social widget
 SOCIAL = (

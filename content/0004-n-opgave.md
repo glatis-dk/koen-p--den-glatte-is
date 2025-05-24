@@ -1,8 +1,8 @@
 Title: Efterårstur med familien
-Date: 2025-05-24
+Date: 2025-05-23
 Category: opgave
-Tags: dansk, blog,
-Slug: Efterårstur-med=familien
+Tags: dansk, blog, fvu, fvudansk, danskundervisning
+Slug: efterårstur-med-familien
 Author: Nu-sasha
 Summary: En lille familie nyder en blæsende eftermiddag i naturen trods små udfordringer og sørger for hinanden med varme og kærlighed.
 

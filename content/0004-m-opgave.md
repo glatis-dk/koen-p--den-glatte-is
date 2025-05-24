@@ -2,7 +2,7 @@ Title: Efterårsdag med Andersen-Familien
 Date: 2025-05-24
 Category: opgave
 Tags: dansk, blog, fvu, fvudansk, danskundervisning
-Slug: Efterårsdag-med-andersen-familien
+Slug: efterårsdag-med-andersen-familien
 Author: Moo-fasa
 Summary: Regn og blæst stopper ikke familien Andersen i at nyde en hyggelig dag i naturen.
 

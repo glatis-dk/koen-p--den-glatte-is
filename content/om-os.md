@@ -2,6 +2,7 @@ Title: Om os
 Slug: om-os
 Save_as: om-os.html
 Date: 2025-04-01
+Category: about
 
 Velkommen til *To Køer på Glatis* – en personlig blog skrevet af os, et par fra Nepal, hvor vi deler små historier, tanker og oplevelser fra hverdagen.
 

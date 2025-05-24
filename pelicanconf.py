@@ -26,9 +26,12 @@ LINKS = (
 
 )
 MENUITEMS = (
+    ('Blog', '/category/blog.html'),
+    ('Opgave', '/category/opgave.html'),
     ('Om os', '/om-os.html'),
 )
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Social widget
 SOCIAL = (

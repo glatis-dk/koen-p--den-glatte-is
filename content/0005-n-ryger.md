@@ -1,7 +1,7 @@
 Title: Rygere i Danmark
-Date: 2025-05-24
+Date: 2025-06-04
 Category: opgave
-Tags: dansk, blog, fvu, fvudansk, danskundervisning
+Tags: dansk, blog, fvu, fvudansk, danskundervisning, rygning
 Slug: rygere-i-danmark
 Author: Nu-sasha
 Summary: Faldet i daglig rygning i Danmark skyldes bl.a. prisstigninger og rygeforbud, men højere afgifter kan også øge uligheden uden støtte til rygestop.

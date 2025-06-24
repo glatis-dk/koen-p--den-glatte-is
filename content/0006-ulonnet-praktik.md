@@ -6,7 +6,7 @@ Slug: ulønnet-praktik
 Author: Nu-sasha
 Summary: Ulønnet praktik giver erfaring, men kan udgøre et misbrug ved at skabe økonomisk pres og ulighed og risikere at virksomheder udnytter praktikere som gratis arbejdskraft; derfor bør det være lønnet for at sikre retfærdighed.
 
- <img src="https://i.imgur.com/avUtE9D.jpeg" alt="ulønnet-praktik" style="display: block; clip-path: inset(5px); width:100%; height:430px; object-fit:cover; object-position:center;" />
+ <img src="https://i.imgur.com/avUtE9D.jpeg" alt="ulønnet-praktik" style="display: block; clip-path: inset(5px); width:100%; height:430px; object-fit:cover; object-position:top;" />
 
 En ulønnet praktik er en midlertidig arbejdsplads for gymnasiale eller videregående studerende. Her får de erfaring og lære nyt ved at arbejde inden for et område, de er interesserede i. 
 Normalt tænker vi på hvorfor skal vi gøre praktik. Men det er virkelig nodvendligt i i days verden. 

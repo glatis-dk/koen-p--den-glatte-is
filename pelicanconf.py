@@ -1,8 +1,8 @@
 AUTHOR = 'Moo-fasa og Nu-sasha'
-SITENAME = 'To Køer på Glatis'
+SITENAME = 'Glatis'
 SITEURL = "https://glatis.dk"
 
-DEFAULT_LANG = 'EN'
+DEFAULT_LANG = 'dk'
 
 PATH = "content"
 
